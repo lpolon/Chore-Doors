@@ -8,6 +8,10 @@ const beachDoorPath = 'https://s3.amazonaws.com/codecademy-content/projects/chor
 
 const spaceDoorPath = 'https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/space.svg';
 
+const randomChoreDoorGenerator = () => {
+  
+}
+
 doorImage1.onclick = () => {
   console.log('hi')
   doorImage1.src = botDoorPath;

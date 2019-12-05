@@ -13,7 +13,7 @@ body {
 
 .title-row {
   text-align: center;
-  margin-top: 42px;
+  margin-top: 32px;
   margin-bottom: 21px;
 }
 
@@ -44,4 +44,16 @@ body {
 
 .door-row {
   text-align: center;
+}
+
+.start-row {
+  margin: auto auto 21px auto;
+  width: 120px;
+  height: 43px;
+  background-color: #eb6536;
+  padding-top: 18px;
+  font-size: 18px;
+  text-align: center;
+  color: #010165;
+  cursor: pointer;
 }
